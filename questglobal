@@ -1,0 +1,7 @@
+1.We are responsible for setting up and maintaining CI/CD pipelines using GitLab, ensuring that code changes are automatically built, tested, and deployed to different environments.
+
+2. We use tools like Terraform or Ansible based on ART technical team selection to define infrastructure components (servers, networks, databases) as code. This allows for consistent and repeatable infrastructure provisioning.
+
+3. We integrate unit tools like JUnit or pytest to execute unit tests with CI/CD  and Security testing tools SonarQube as per requirements. 
+
+4. Facilitate communication between development and operations teams, promoting a culture of collaboration.
